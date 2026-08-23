@@ -1,0 +1,7 @@
+LIBRARY "KinectCamFilter.dll"
+EXPORTS
+    DllMain             PRIVATE
+    DllGetClassObject   PRIVATE
+    DllCanUnloadNow     PRIVATE
+    DllRegisterServer
+    DllUnregisterServer

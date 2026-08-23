@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KinectCamFilter/KinectCamFilter.vcxproj" Id="5a6aa3bb-1570-4707-a11e-24ff74d5e024" />
+</Solution>
